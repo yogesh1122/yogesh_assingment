@@ -7,3 +7,7 @@ const userController = require('../controllers/userController');
 router.get('/getReports', userController.getReports );
  
 module.exports = router;
+
+//here are router codes
+
+
