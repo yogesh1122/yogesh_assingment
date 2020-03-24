@@ -8,6 +8,5 @@ router.get('/getReports', userController.getReports );
  
 module.exports = router;
 
-//here are router codes
 
 
